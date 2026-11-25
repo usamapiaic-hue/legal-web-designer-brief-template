@@ -1,0 +1,10 @@
+site_name: "Legal Web Designer Brief Template"
+site_description: "A fill-in brief a law firm can send to a web designer before asking for quotes, by Legal Web Agency."
+site_author: Legal Web Agency
+site_url: https://legal-web-designer-brief-template.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - "Legal Web Designer Brief Template": index.md
+markdown_extensions:
+  - tables
